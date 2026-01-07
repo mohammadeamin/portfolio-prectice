@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.font-open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+header{
+    background-color: #f5e5da;
+    padding-top: 50px;
+    
+}
+.logo h2{
+    font-size: 45px;
+    font-weight: 121px;
+    margin: 0 auto;
+}
+.color-orenge{
+    color: #FD6E0A;
+}
+.nav{
+    display: flex;
+    margin: 0 auto;
+    list-style-type: none;
+    text-align: center;
+    
+
+}
